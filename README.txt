@@ -1,0 +1,1 @@
+This code was written to control the test stand remotely. Initially, this code will run inputs through an arduino and then into the valves. Later, this code will run inputs into an arduino, which will send them via xbee to another that will controll the valves. A schematic will be added later. 
